@@ -1,5 +1,4 @@
-def generate_readme():
-    content = """# Hotel Management System
+## Hotel Management System
 
 ## Overview
 
